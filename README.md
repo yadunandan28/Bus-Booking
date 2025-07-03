@@ -1,4 +1,4 @@
-# Bus-Business
+# Bus-Booking
 It's business part of Bus Booking project made using MERN Stack (MongoDB, Express js, React js, Node js)
 
 [Here](https://bus-business.herokuapp.com/) is the link of Business portal of this site for adding buses.
